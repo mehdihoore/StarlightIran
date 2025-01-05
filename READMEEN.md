@@ -1,5 +1,3 @@
-# StarlightIran
-Cloudflare Worker powering a search engine, LLM summarizer, Iranian sky tracker, Persian calendar, VPN, Stahl tables &amp; more.
 # SABAAT: Intelligent Search and Information Hub
 
 SABAAT is a powerful Cloudflare Worker application designed to provide users with a comprehensive search experience and a wealth of information, all in one place.
