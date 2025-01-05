@@ -49,8 +49,8 @@
 
 2. **کلون کردن مخزن:**
     ```bash
-    git clone <your-repository-url>
-    cd <repository-name>
+    git clone https://github.com/mehdihoore/StarlightIran.git
+    cd StarlightIran
     ```
 
 3. **متغیرهای محیطی:**
@@ -89,10 +89,10 @@
 -   **پروکسی:** برای دسترسی به یک وب‌سایت از طریق پروکسی، از نقطه پایانی `/proxy` با پارامتر `url` استفاده کنید:
 
     ```
-    https://your-worker-url.workers.dev/proxy?url=https://www.example.com
+    https://nse.aihoore.ir/
     ```
 
-    `https://your-worker-url.workers.dev` را با URL  Cloudflare Worker خود و `https://www.example.com` را با وب‌سایتی که می‌خواهید به آن دسترسی داشته باشید، جایگزین کنید.
+  
 
 ## مشارکت
 
